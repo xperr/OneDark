@@ -389,7 +389,7 @@ body #odc-share-root {
   background-color: #1e6df705 !important;
 }
 
-.icon-196 {
+.icon-196, .icon-219  {
   fill: rgb(255 255 255) !important;
 }
 
@@ -658,11 +658,11 @@ body #odc-share-root {
   fill: rgb(255, 254, 254) !important;
 }
 
-.root-253:hover {
+.root-253:hover, .root-263:hover {
   background-color: #252525 !important;
 }
 
-.group-252, .group-248 {
+.group-252, .group-248, .group-299, .group-234, .group-218 {
   background: rgb(25 25 25) !important;
 }
 
@@ -719,6 +719,10 @@ body #odc-share-root {
 }
 
 .root-268:hover {
+  background-color: #252525 !important;
+}
+
+.root-256:hover {
   background-color: #252525 !important;
 }
 
@@ -907,6 +911,10 @@ body #odc-share-root {
 
 .root-249 {
   background-color: #252525 !important;
+}
+
+.css-281, .css-229, .css-233 {
+  color: rgb(255, 255, 255) !important;
 }
 
 .root-278 {
