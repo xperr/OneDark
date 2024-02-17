@@ -1,2 +1,1 @@
-# OneDark
-Dark theme for OneDrive
+# OneDark - Dark mode for OneDrive
