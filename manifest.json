@@ -1,0 +1,27 @@
+{
+  "name": "OneDark",
+  "description": "Dark Theme for MS OneDrive",
+  "version": "0.1",
+  "permissions": [],
+  "icons": {"128": "OneDark.png" },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://onedrive.live.com/*"],
+      "js": ["background.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "browser_action": {
+    "default_title": "OneDark - Dark Theme for MS OneDrive",
+    "default_icon":"OneDark.png" ,
+    "default_popup": "popup.html"
+  },
+
+  "manifest_version": 2,
+  "web_accessible_resources": [
+    "css_dark.css"
+  ]
+}

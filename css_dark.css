@@ -1,0 +1,1010 @@
+body {
+  color: #ffffff !important;
+}
+
+button {
+
+  color: #FFFFFF !important;
+
+}
+
+
+.od-SuiteNav {
+  z-index: 1;
+}
+
+.od-VideoPlayer--isFullScreen,
+.od-BasePage-belowBar {
+  background-color: #FFF;
+}
+
+[data-theme=fluent-light] {
+
+  --pageBackgroundGradientColorStop1: #212439 !important;
+  --pageBackgroundGradientColorStop2: #101518 !important;
+  --pageBackgroundGradientColorStop3: #0a0a0a !important;
+  --globalColorGrey14: #FFFFFF !important;
+  --globalColorGrey26: #FFFFFF !important;
+  --colorNeutralBackground1: #252525 !important;
+  --globalColorGrey92: #252525 !important;
+  --globalColorGrey96: #252525 !important;
+}
+
+
+/* Name of file or folder */
+.name_a2e2ef6f  {
+
+  color: #FFFFFF !important;
+
+}
+
+/* Date of file or folder */
+
+.activity_a2e2ef6f {
+
+  color:#cfcfcf !important
+
+}
+
+.o365cs-base .o365sx-button {
+  color: #ffffff !important;
+}
+
+
+.root-112 {
+
+  color: #FFFFFF !important;
+}
+
+
+
+.root-142 {
+
+  color: #FFFFFF !important;
+}
+
+.root-142:hover {
+  color: #cfcfcf !important;
+}
+
+.o365cs-base .o365sx-appName, .o365cs-base .o365sx-appName:visited {
+  
+  color: #FFFFFF !important;
+  
+}
+
+/* CHECK MARK COLOR */
+
+.root-231 .ms-ContextualMenu-checkmarkIcon {
+  color: #FFFFFF !important;
+}
+
+.root-225 .ms-ContextualMenu-checkmarkIcon {
+  color: #FFFFFF !important;
+}
+
+.root-225:hover {
+  background-color: #252525 !important;
+}
+
+.root-170:hover {
+  background-color: #252525 !important;
+}
+
+.root-164:hover {
+  background-color: #252525 !important;
+}
+
+.root-254:hover {
+  background-color: #252525 !important;
+}
+
+.root-248:hover {
+  background-color: #252525 !important;
+}
+
+.root-231:hover {
+  background-color: #252525 !important;
+}
+
+.root-244:hover, .root-250:hover  {
+  background-color: #252525 !important;
+}
+
+.root-230:hover {
+  background-color: #252525 !important;
+}
+
+.root-233:hover {
+  background-color: #252525 !important;
+}
+
+.root-235:hover {
+  background-color: #252525 !important;
+}
+
+.root-234:hover {
+  background-color: #252525 !important;
+}
+
+.root-229:hover {
+  background-color: #252525 !important;
+}
+
+.root-237:hover {
+  background-color: #252525 !important;
+}
+
+.root-243:hover {
+  background-color: #252525 !important;
+}
+
+.root-238:hover {
+  background-color: #252525 !important;
+}
+
+.root-244:hover {
+  background-color: #252525 !important;
+}
+
+
+.root-149 {
+
+  color:#FFFFFF !important;
+}
+
+.root-201 .ms-Button-menuIcon {
+  color: #b1b1b1;
+}
+
+.link_7c3aa882 {
+  color:#FFFFFF !important;
+}
+
+.root-273 {
+
+  background: rgb(35 35 35) !important;
+}
+
+.root-171 .root-163 {
+
+  color: #FFFFFF !important
+}
+
+.root-163 {
+
+  color: #FFFFFF !important
+}
+
+.isFluentVNext .root_0494fb48 {
+  background-color: #1c1a1a !important;
+}
+
+.root-115 {
+  background: #1c1a1a !important
+}
+
+
+.root-190 {
+  background: #1c1a1a !important;
+}
+
+/* BORDER */
+
+.isOD3 .root_dc41814b {
+  border: 2px solid #FFFFFF !important;
+}
+
+.navLowerContainer_4c106af6 {
+  background-color: transparent !important;
+}
+
+.nav_4c106af6 {
+  background-color: transparent !important;
+}
+
+.root_0494fb48 {
+
+  color: #FFFFFF !important;
+
+}
+
+.root-145 {
+
+  color: #FFFFFF !important;
+
+}
+
+.root-132 {
+  color: #FFFFFF !important;
+}
+
+.root-220, .root-207 {
+  color: rgb(255 255 255) !important;
+}
+
+.od-ShareMain-section {
+  background-color: #1a1a1a !important;
+  border-radius: 25px !important;
+}
+
+
+.od-Share {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+  border-radius: 2px;
+  min-height: 130px;
+}
+
+.iconClassName-136 {
+  color: #FFFFFF !important;
+}
+
+.separator {
+  border-top: 2px solid #3f3f3f !important;
+}
+
+body #odc-share-root {
+  background-color: #0e0e0e !important;
+}
+
+.od-ShareHintDetail-statusText {
+  color: #c7c7c7 !important;
+}
+
+.root_0494fb48 {
+  display: inline-flex;
+  border-bottom: 1px solid #F0F0F0;
+  background: #FFFFFF;
+  color: #616161;
+  min-width: 100%;
+  white-space: nowrap;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: top;
+  outline: transparent;
+  position: relative;
+  --od3-row-inset-background: var(--colorNeutralBackground1Hover) !important;
+  --od3-row-divider: #2b2a2a !important;
+  --od3-row-divider-gradient-direction: 90deg;
+}
+
+.sortIcon-135 {
+  color: rgb(182, 182, 182) !important;
+  opacity: 2 !important;
+  padding-left: 4px;
+  position: relative;
+  top: 1px;
+}
+
+.contentContainer-287 {
+  background-color: #0C0D0B !important;
+}
+
+.od-DetailsPane-PrimaryPane {
+  background-color: #101010 !important;
+}
+
+.od-DetailsPane-PrimaryPane-header {
+  color: rgb(36, 36, 36);
+  font-size: 14px;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 1px 3px;
+  background-color: #101010 !important;
+  display: flex;
+  position: relative;
+  padding: 10px 16px;
+}
+
+.od-DetailsPane-ItemActivityFeedSection-content .od-ItemActivityFeed-error, .od-DetailsPane-ItemActivityFeedSection-content .od-ItemActivityFeed-noActivities, .od-DetailsPane-ItemActivityFeedSection-content .od-ItemActivityList-activity {
+  background-color: #1f1f1f !important;
+  padding: 14px 16px;
+  border-radius: 2px;
+}
+
+.od-DetailsPane-PrimaryPane-header-title {
+  color: white !important;
+}
+
+.isFluentVNext .commandBar_c231eeb7.hasSelection_c231eeb7 .ms-CommandBar {
+  background-color: #1e1e1e !important;
+  animation-name: nothinghere !important; 
+  animation-duration: 267ms;
+  animation-fill-mode: both;
+}
+
+.hasForegroundFrame_a2e2ef6f .foreground_a2e2ef6f {
+  background-color: transparent !important;
+}
+
+.hasForegroundFrame_a2e2ef6f .foreground_a2e2ef6f:after {
+  border: 2px solid transparent !important;
+}
+
+.chevron-145 {
+  color: rgb(255 255 255) !important;
+}
+
+.listItem-137:last-child .ms-Breadcrumb-item {
+  font-weight: 600;
+  color: #fff !important;
+}
+
+.listItem-113:last-child .ms-Breadcrumb-item {
+  font-weight: 600;
+  color: #fff !important;
+}
+
+.chevron-121 {
+  color: #fff !important;
+}
+
+.root-258:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-247:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-266:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-264:hover {
+  background-color: #252525 !important;
+}
+
+.root-270:hover {
+  background-color: #252525 !important;
+}
+
+.root-260:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-283:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-289:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.root-231:hover {
+  background-color: #252525 !important;
+  color: rgb(66, 66, 66);
+}
+
+.o365sx-searchBoxInactive {
+  background-color: #1e6df705 !important;
+}
+
+.o365sx-searchBoxActive {
+  background-color: #1e6df705 !important;
+}
+
+.icon-196 {
+  fill: rgb(255 255 255) !important;
+}
+
+.icon-194 {
+  fill: rgb(255 255 255) !important;
+}
+
+.od-ItemActivityFeed-title {
+  color: #FFFFFF !important;
+}
+
+.css-227 {
+  color: #FFFFFF !important;
+}
+
+.css-235 {
+  color: rgb(146, 146, 146) !important;
+}
+
+.od-ItemActivity-item-nameText {
+  font-weight: 800 !important;
+  color: #3441b8 !important;
+}
+
+html[dir=ltr] .od-DetailsPaneWrapper {
+  border-left: 1px solid #1e1e1e !important;
+}
+
+.listItem-203:last-child .ms-Breadcrumb-item {
+  font-weight: 600;
+  color: rgb(188 188 189) !important;
+}
+
+.isFluentVNext .od-DetailsPane-PrimaryPane-wrapper {
+  background-color: #121212 !important;
+}
+
+.icon-200 {
+  fill: rgb(255 255 255) !important;
+}
+
+.od-SharingSection-PermissionsPile {
+  background-color: #121212 !important;
+}
+
+.od-Dialog-main {
+
+  background-color: #1e1e1e !important;
+}
+
+.od-Dialog-header .od-Dialog-title {
+  color: #ffffff !important;
+}
+
+.od-Dialog.od-Dialog--close .od-Dialog-button.od-Dialog-button--close:hover {
+  color: #242424;
+  background-color: #252525 !important;
+}
+
+.od-Dialog.od-Dialog--close .od-Dialog-button.od-Dialog-button--close:active {
+  color: #141414;
+  background-color: #121212 !important;
+}
+
+
+.od-DetailsPane-SecondaryPane-header {
+  background: #121212 !important;
+}
+
+.od-SharingSection-ManageAccessLink-Button {
+  background: #121212 !important;
+}
+
+.od-Caption-textField {
+  background-color: #121212 !important;
+}
+
+.od-FolderCoverTile {
+  background-color: #121212 !important;
+}
+
+.od-FolderCoverTile-item2 {
+  background-color: #121212 !important;
+}
+
+.od-FolderCoverTile-item3, .od-FolderCoverTile-item4 {
+  background-color: #121212 !important;
+}
+
+.o365cs-base .o365sx-button:hover {
+  color: #0F6CBD;
+  background-color: #242323 !important;
+}
+
+.o365cs-base .o365sx-neutral-lighterAlt-background, .o365cs-base .o365sx-neutral-lighterAlt-hover-background:hover {
+  background-color: #181818 !important;
+}
+
+.root-208:hover {
+  background-color: #252525 !important;
+}
+
+.root-252:hover {
+  background-color: #252525 !important;
+}
+
+.root-122:hover {
+  background-color: #252525 !important;
+}
+
+.root-240 .ms-ContextualMenu-checkmarkIcon {
+  color: rgb(219 219 219) !important;
+}
+
+.root-240:hover {
+  background-color: #252525 !important;
+}
+
+.root-246:hover {
+  background-color: #252525 !important;
+}
+
+.root-166:hover {
+  background-color: #252525 !important;
+}
+
+.root-241:hover {
+  background-color: #252525 !important;
+}
+
+.root-169:hover {
+  background-color: #252525 !important;
+}
+
+.root-163:hover {
+  background-color: #252525 !important;
+}
+
+.root-214:hover {
+  background-color: #252525 !important;
+}
+
+.root-229:hover {
+  background-color: #252525 !important;
+}
+
+.root-312:hover {
+  background-color: #252525 !important;
+}
+
+.root-234:hover {
+  background-color: #252525 !important;
+}
+
+.content-171 button:hover {
+  background-color: black;
+}
+
+.root-184:hover {
+  background-color: #252525 !important;
+}
+
+.root-184:hover {
+  background-color: #252525 !important;
+}
+
+.root-107:hover {
+  background-color: #252525 !important;
+}
+
+.root-105:hover {
+  background-color: #252525 !important;
+}
+
+.root-162:hover {
+  background-color: #252525 !important;
+}
+
+.root-123:hover {
+  background-color: #252525 !important;
+}
+
+.root-127:hover {
+  background-color: #252525 !important;
+}
+
+.root-227:hover {
+  background-color: #252525 !important;
+}
+
+.od-Share {
+  background-color: #3b3b3b !important;
+}
+
+body #odc-share-root {
+  background-color: #3b3b3b !important;
+}
+
+.root-263 {
+  color: rgb(255 255 255) !important;
+}
+
+.root-233 {
+  background: #252525 !important;
+}
+
+.iconClassName-264 {
+  color: rgb(255 255 255) !important;
+}
+
+.od-PlaybackPanel {
+  padding: 0 28px;
+  white-space: nowrap;
+  background-color: rgb(75 75 75 / 75%) !important;
+}
+
+.mectrl_currentAccount a.mectrl_signout, .mectrl_currentAccount a.mectrl_signout:focus, .mectrl_currentAccount button.mectrl_signout, .mectrl_currentAccount button.mectrl_signout:focus {
+  color: #333;
+  background-color: #232323 !important;
+}
+
+.filterChevron-255 {
+  color: rgb(177 177 177) !important;
+}
+
+.sortIcon-253 {
+  color: rgb(195 195 195) !important;
+}
+.root-250 {
+  color: rgb(255 255 255) !important;
+}
+
+.root-164:hover {
+  background-color: #252525 !important;
+}
+
+.root-272:hover {
+  background-color: #252525 !important;
+}
+
+.root-242:hover {
+  background-color: #252525 !important;
+}
+
+.root-282:hover {
+  background-color: #252525 !important;
+}
+
+.root-297:hover {
+  background-color: #252525 !important;
+}
+
+.root-270 .ms-ContextualMenu-checkmarkIcon {
+  color: rgb(255 255 255) !important;
+}
+
+.icon-233 {
+  fill: rgb(255, 255, 255) !important;
+}
+
+.root-264 .ms-ContextualMenu-checkmarkIcon {
+  color: rgb(255, 255, 255) !important;
+}
+
+.icon-235 {
+  fill: rgb(255, 254, 254) !important;
+}
+
+.root-253:hover {
+  background-color: #252525 !important;
+}
+
+.group-252, .group-248 {
+  background: rgb(25 25 25) !important;
+}
+
+.submitSuggestion-245 {
+  background-color: rgb(25 25 25);
+}
+
+.isFluentVNext .root_dc41814b {
+  background-color: transparent !important;;
+  box-shadow: 0px 0px 0px transparent, 0px 0px 0px transparent !important;
+}
+
+.suggestionContainer-263, .submitSuggestion-241 
+ {
+  background: rgb(25 25 25) !important;
+}
+
+.noWrap-255 {
+  color: rgb(255 255 255) !important;
+}
+
+.submitSuggestion-241 {
+  background-color: rgb(25, 25, 25) !important;
+}
+
+.groupTitle-250 {
+  color: rgb(255 255 255) !important;
+}
+
+.groups-247 {
+  padding-bottom: 0px !important;
+}
+
+.isOD3 .is-selected .heroButton_b659e3fc:hover:not(:disabled) {
+  background-color: #121212;
+}
+
+.listItem-290:last-child .ms-Breadcrumb-item {
+  color: rgb(255 255 255) !important;
+}
+
+.listItem-150:last-child .ms-Breadcrumb-item {
+  color: rgb(255 255 255) !important;
+}
+
+.mectrl_body {
+  text-align: left;
+  color: #333;
+  background-color: #232323 !important;
+}
+
+.root-219:hover {
+  background-color: #252525 !important;
+}
+
+.root-268:hover {
+  background-color: #252525 !important;
+}
+
+.root-239:hover {
+  background-color: #252525 !important;
+}
+
+
+.root-236:hover {
+  background-color: #252525 !important;
+}
+
+.listItem-144:last-child .ms-Breadcrumb-item {
+  font-weight: 600;
+  color: rgb(255, 255, 255) !important;
+}
+
+.od-DetailsPane-GlobalSettingsMenu .ms-Button-icon {
+  color: #ffffff !important;
+}
+
+.linkIconWrapper_7c3aa882 i {
+  color: white !important;
+}
+
+.css-279 {
+  color: rgb(255 255 255) !important;
+}
+
+.o365cs-base .o365sx-neutral-dark-font, .o365cs-base .o365sx-neutral-dark-hover-font:hover {
+  color: #FFFFFF !important;
+}
+
+.o365cs-base .qLbnXrrpb1JPt\+x0quZ\+QQ\=\=>label {
+  color: white!important;
+}
+
+.o365cs-base .o365sx-neutral-accent-link, .o365cs-base .o365sx-neutral-accent-link:hover, .o365cs-base .o365sx-neutral-accent-link:visited, .o365cs-base .o365sx-neutral-accent-hover-link:hover {
+  color: #ffffff !important;
+}
+
+.o365cs-base .o365sx-neutral-light-background, .o365cs-base .o365sx-neutral-light-hover-background:hover {
+  background-color: #252525 !important;
+}
+
+.o365cs-base .o365sx-neutral-lightAlt-border, .o365cs-base .o365sx-neutral-lightAlt-hover-border:hover {
+  border-color: transparent !important;
+}
+
+.row_83c13496 {
+  background-color: transparent !important;
+}
+
+.isFluentVNext .OneUp--hasCommandBar.OneUp--newDesignedCommandBar .OneUp-commandBar {
+  background-color: #181818 !important;
+}
+
+.OneUp {
+  background-color: #181818 !important;
+}
+
+.isFluentVNext .OneUp--hasCommandBar.OneUp--newDesignedCommandBar .OneUp-commandBar .ms-CommandBar .ms-Button--commandBar.is-disabled i[data-icon-name=Next], .isFluentVNext .OneUp--hasCommandBar.OneUp--newDesignedCommandBar .OneUp-commandBar .ms-CommandBar .ms-Button--commandBar.is-disabled i[data-icon-name=Previous] {
+  color: #ffffff !important;
+}
+
+.OneUp--hasCommandBar.OneUp--newDesignedCommandBar .OneUp-commandBar .ms-CommandBar .ms-Button--commandBar i[data-icon-name=Cancel] {
+  color: #ffffff !important;
+}
+
+.OneUp--hasCommandBar.OneUp--newDesignedCommandBar .OneUp-commandBar {
+  padding-right: 2px;
+  border: 1px solid #181818 !important;
+}
+
+.OneUp-caption-container {
+  background-color: rgb(75 75 75 / 75%) !important;
+}
+
+.o365cs-base .VHvmmNt2vVrKJb47LhAFLw\=\= {
+  color: white !important;
+}
+
+.group-211 {
+  background: rgb(39 39 39) !important;
+}
+
+.groupTitle-213 {
+  color: rgb(255 255 255) !important;
+}
+
+.submitSuggestion-204 {
+  background-color: rgb(39 39 39) !important;
+}
+
+.suggestion-222 {
+  background-color: rgb(39 39 39) !important;
+}
+
+.groups-210 {
+  background-color: rgb(39 39 39) !important;
+}
+
+.group-215 {
+  background: rgb(18 18 18) !important;
+}
+
+.noWrap-218 {
+  color: rgb(255 255 255) !important;
+}
+
+.getMoreStorageButton_8bf2f56c.buyStorageButton_8bf2f56c {
+  background-color: #292a35 !important;
+}
+
+.odsp-spartan-nav-expanded .quotaBarHeader_c3cd803d {
+  margin-bottom: 5px !important;
+  color: #ffffff !important;
+}
+
+.totalQuotaText_c3cd803d {
+  color: #ffffff !important;
+}
+
+.quotaBarVisualUsed_c3cd803d.normal_c3cd803d {
+  border-top-color: #3290e1 !important;
+}
+
+.usedQuotaText_c3cd803d.normal_c3cd803d {
+  color: #3290e1 !important;
+}
+
+.icon-193 {
+  fill: rgb(255 255 255) !important;
+}
+
+.shimmeredList_83c13496::after {
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, transparent), color-stop(100%, transparent), to(transparent));
+  background-image: linear-gradient(to bottom, transparent 100%, transparent 100%) !important;
+}
+
+.shimmerWrapper-215 {
+  background-color: rgb(93 93 93) !important;
+}
+
+.itemErrorTitle_6d33ea7a {
+  color: #ffffff !important;
+}
+
+.itemErrorMessage_6d33ea7a {
+  color: #c9c9c9 !important;
+}
+
+.root-252 {
+  border: 1px solid rgb(59 59 59) !important;
+  background-color: rgb(41 41 41) !important;
+}
+
+.od-OverlayHost-overlay .ms-ModalOverlay {
+  background-color: rgb(0 0 0 / 79%) !important;
+}
+
+.root-270 {
+  background-color: rgb(37 37 37 / 79%) !important;
+}
+
+.root-276 {
+  background-color: #252525 !important;
+  border-color: #252525 !important;
+}
+
+.root-269 {
+  background-color: #252525 !important;
+}
+
+.root-279 {
+  background-color: #252525 !important;
+}
+
+.root-280 {
+  border-color: #252525 !important;
+}
+
+.root-277 {
+  background-color: #252525 !important;
+}
+
+.root-249 {
+  background-color: #252525 !important;
+}
+
+.root-278 {
+  border-color: #252525 !important;
+}
+
+
+.root-245 {
+  border-color: #252525 !important;
+}
+
+.root-268 {
+  background-color: #252525 !important;
+  border-color: #252525 !important;
+}
+
+.icon-208 {
+  fill: rgb(255 244 244) !important;
+}
+
+.icon-238, .icon-172, .icon-237 {
+  fill: #FFFFFF !important;
+}
+
+.headerRow_1fce59a1 {
+  background: transparent !important;
+}
+
+:where(.odsp-spartan-list) .odsp-spartan-cell {
+  background: transparent !important;
+}
+
+.isOD3 .root_dc41814b {
+  border: 2px solid #ffffff !important;
+}
+
+.root-115 .ms-DetailsHeader-cell:hover {
+  border-radius: 4px;
+  box-shadow: rgb(255, 255, 255) 0px 10px inset, rgb(255, 255, 255) 0px -10px inset;
+}
+
+.root-115 .ms-DetailsHeader-cell:hover {
+  box-shadow: rgb(25 25 25) 0px 10px inset, rgb(25 25 25) 0px -10px inset !important;
+  background-color: #252525;
+}
+
+.od3list_89e0793f {
+  border: 3px solid var(--ms-palette-neutralLight) !important;
+}
+
+.list_1fce59a1 {
+  background-color: #1c1a1a !important;
+}
+
+:where(.odsp-spartan-list) .odsp-spartan-cell {
+  border-image: #1e1e1e !important;
+}
+
+.odListRow_89e0793f .odsp-spartan-cell:first-child {
+  border-image: #1e1e1e !important;
+}
+
+.searchBox_9aeb2bd3.hasFocus_9aeb2bd3 {
+background-color: #161616 !important;
+}
+
+.searchInput_9aeb2bd3::placeholder, :not(.hasFocus_9aeb2bd3).hasInput_9aeb2bd3 .searchInput_9aeb2bd3 {
+  color: #999999 !important;
+}
+
+.searchInput_9aeb2bd3::placeholder, .hasFocus_9aeb2bd3 .hasInput_9aeb2bd3 .searchInput_9aeb2bd3 {
+  color: #ffffff !important;
+}
+
+.odsp-spartan-list .row_1fce59a1 {
+  --bottom-row-color: #2f2f2f !important;
+  -o-border-image: linear-gradient(0deg,var(--bottom-row-color) 2px,transparent 2px 10px,var(--side-border-color) 10px calc(100% - 8px),transparent calc(100% - 8px)) 0 1 2 0 !important;
+  border-image: linear-gradient(0deg,#2f2f2f 2px,transparent 2px 10px,var(--side-border-color) 10px calc(100% - 8px),transparent calc(100% - 8px)) 0 1 2 0 !important;
+}
+
+.odListRow_89e0793f .odsp-spartan-cell:first-child {
+  border-image: linear-gradient(var(--od3-row-divider-inset-gradient-direction),#292929 8px,var(--bottom-row-color) 8px 100%) 0 0 1 0 !important;
+}
+
+.odListRow_89e0793f .odsp-spartan-cell:last-child {
+  border-image: linear-gradient(var(--od3-row-divider-inset-gradient-direction),var(--bottom-row-color) calc(100% - 8px),#2f2f2f calc(100% - 8px)) 0 0 1 0 !important;
+}
+
+.actionRow_bb739360 [data-id=filterPivot] button[data-selected=true] {
+  background-color: transparent !important;
+}
+
+.actionRow_bb739360 [data-id=filterPivot] button:active, .actionRow_bb739360 [data-id=filterPivot] button:focus {
+  border-color: #ffffff !important;
+  background-color: #3a3a45 !important;
+}
+
+.odListRow_89e0793f.is-selected .odsp-spartan-cell:first-child, .odListRow_89e0793f.is-selected div[class^=rowSelectionCell]:first-child, .odListRow_89e0793f:hover .odsp-spartan-cell:first-child, .odListRow_89e0793f:hover div[class^=rowSelectionCell]:first-child {
+  box-shadow: inset 8px 0 #5b5b5b, 0 -1px #898989 !important;
+}
+
